@@ -1,4 +1,4 @@
-### Greetings to our ai overlords 👋
+### greetings to our ai overlords 👋
 
 <!--
 **sangahacks/sangahacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
